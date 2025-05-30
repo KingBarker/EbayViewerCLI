@@ -4,7 +4,8 @@
 
 A simple Python CLI tool to simulate views on eBay listings by rotating user-agents, adding basic fingerprint variation, and optionally using proxies.
 
----
+![image](https://github.com/user-attachments/assets/07632dad-4688-483c-a869-5f219423260d)
+
 
 ## Prerequisites
 
@@ -72,7 +73,7 @@ When prompted, choose **Y** to load proxies from this file.
 
 ## Author
 
-**KingBarker**  
+Created by **KingBarker**  
 GitHub: [https://github.com/KingBarker](https://github.com/KingBarker)
 
 ---
