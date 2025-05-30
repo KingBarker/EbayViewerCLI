@@ -1,4 +1,4 @@
-# EbayViewerCLI
+# EbayViewerCLI V1.00
 
 **Educational Use Only**
 
