@@ -17,10 +17,10 @@ A simple Python CLI tool to simulate views on eBay listings by rotating user-age
 ## Installation
 
 1. Clone or download the repository to your local machine.  
-2. Place `complete-ebay-view-bot.py` in your working directory.  
+2. Place `EbayViewerCLI.py` in your working directory.  
 3. Ensure the file is executable (on UNIX/Linux/macOS):  
    ```bash
-   chmod +x complete-ebay-view-bot.py
+   chmod +x EbayViewerCLI.py
    ```
 
 ---
@@ -30,7 +30,7 @@ A simple Python CLI tool to simulate views on eBay listings by rotating user-age
 Run the script without arguments to enter interactive mode:
 
 ```bash
-python complete-ebay-view-bot.py
+python EbayViewerCLI.py
 ```
 
 You will be prompted for:  
